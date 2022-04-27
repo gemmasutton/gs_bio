@@ -1,0 +1,58 @@
+---
+title: "Gemma Sutton"
+author: "gs569@exeter.ac.uk"
+date: 'Living Systems Institute, University of Exeter, Stocker Road, Exeter, EX4 4QD'
+output:
+  pdf_document:
+    latex_engine: xelatex
+  html_document:
+    theme: lumen
+  word_document: default
+geometry: left=0.8in,right=0.8in,top=0.8in,bottom=0.5in 
+mainfont: Arial 
+documentclass: article
+classoption: onecolumn
+linestretch: 1.2
+fontsize: 12pt
+bibliography: references.bib
+csl: elife.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+Gemma is a PhD student working in the Living Systems Institute (LSI) at the University of Exeter. Gemma started her PhD in September 2020 and is due to finish by September 2024. The aim of her research is to dissect the role of Wnt signalling in neural crest development in zebrafish. Gemma is inducted onto the South West Bio Doctoral Training Programme (SWBio DTP) and her research is funded by the Biotechnology and Biological Sciences Research Council (BBSRC).
+
+## Background
+
+Before starting her PhD, Gemma spent five years at the University of York studying her Biology degree (2015-2020). During this time she completed an Erasmus placement year (2017-2018) working at the Institute for Research in Biomedicine (IRB) Barcelona, and an Integrated Masters Year (2019-2020). 
+<br> 
+<br> 
+Gemma graduated in 2020 with a First Class Master of Biology Degree (with a Year in Europe). She was awarded the Advanced Accreditation Top Project Award from the Royal Society of Biology for her Masters Dissertation. During her Masters project, Gemma researched the developmental adaptations of the extremophile Cichlid fish *Oreochromis (Alcolapia) alcalica*. This project resulted in two publications, including the publication of her dissertation [@Sutton2020; @White2020] .
+
+## Current Research & Skills
+
+Gemma's PhD is a collaborative project between Steffen Scholpp's lab at the University of Exeter and Robert Kelsh's lab at the University of Bath. During the first year of her PhD, Gemma was trained for 6 months in both of her collaborator's laboratories. This collaboration has proved fruitful thus far, leading to the publication of a review article by the second year of the project [@Sutton2021]. 
+<br> 
+<br> 
+The focus of Gemma's PhD is on a population of cells, known as the neural crest which have the potential to form many cell derivatives in vertebrate embryos. Gemma is analysing how the Wnt signalling pathway regulates the balance of cell types formed from the neural crest. So far Gemma has become highly skilled in molecular biology and embryology, including in microinjection. Gemma uses confocal and lightsheet microscopy to image cell-cell communication in zebrafish embryos. 
+<br>
+<br> 
+During the first year of her PhD, Gemma was trained in statistics and coding in RStudio, Python and Linux. Gemma uses RStudio for most of her data analysis which she has been learning since the start of her undergraduate degree. More recently, Gemma completed a course in RMarkdown which she hopes to use for writing reports and presentations in future.
+
+## Outside of the lab
+
+Over the last year, Gemma has been the head of the PhD student community in the LSI. Since she started her PhD during the pandemic, Gemma took on this role to try to improve the research culture in the LSI. This involves arranging regular PhD social events. This was incredibly challenging at first, as events were initially organised virtually and numbers dwindled. Recently, Gemma organised the first LSI PhD day with the aim of bringing all PhD students in the LSI together and showcasing their research. During the day, Gemma presented a research poster which won an award, chaired the talk sessions, and hosted a discussion on research culture for PhD students. The day proved a huge success and has boosted the entire PhD community, with many PhD students now expressing interest in organising more events in the future. 
+<br> 
+<br> 
+When Gemma isn't working in the LSI, she enjoys sports and fitness activities, often going running along the river Exe. Since moving to Devon, Gemma enjoys going to the beach with friends and trying out surfing.
+
+[![LinkedIn](../icons/LINKED%20IN.png "LinkedIn: Gemma Sutton"){width="10%"}](https://www.linkedin.com/in/gemma-sutton/) [![Orcid](../icons/ORCID.png "ORCID: Gemma Sutton"){width="10%"}](https://orcid.org/0000-0002-0459-0912) [![Twitter](../icons/TWITTER.png "@Embryo_Gemma"){width="10%"}](https://twitter.com/Embryo_Gemma)
+
+## References {.unnumbered}
+
+::: {#refs}
+:::
